@@ -1,12 +1,12 @@
 
-# Semana NLW Heat
-> _Mission: Origin
+#Semana NLW Heat
+> Mission: Origin
 
-### Sobre o projeto
+###Sobre o projeto
 
-> _Criar um - Cartão Virtual DoWhile, portfólio com as tecnologias mais demandadas do mercado
+> Criar um - Cartão Virtual DoWhile, portfólio com as tecnologias mais demandadas do mercado
 
-### Tecnologias
+###Tecnologias
 * CSS
 * HTML
 * CSS
