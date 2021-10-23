@@ -15,5 +15,8 @@
 https://img.shields.io/github/issues/ClaudenyAvelino/projeto-sds3
 
 
+> Preparando o ambiente
+Para esse guia teremos duas etapas principais na seção "Instalação":
 
-
+* Google Chrome;
+* Visual Studio Code;
