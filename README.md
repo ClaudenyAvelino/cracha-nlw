@@ -4,7 +4,7 @@
 
 ### Sobre o projeto
 
-> _Criar um Crachá Virtual DoWhile - Cartão Virtual, portfólio com as tecnologias mais demandadas do mercado
+> _Criar um - Cartão Virtual DoWhile, portfólio com as tecnologias mais demandadas do mercado
 
 ### Tecnologias
 * CSS
