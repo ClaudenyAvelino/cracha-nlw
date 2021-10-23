@@ -2,7 +2,7 @@
 # Semana NLW Heat
 > _Mission: Origin
 
-# Sobre o projeto
+### Sobre o projeto
 
 > _Criar um Crachá Virtual DoWhile - Cartão Virtual, portfólio com as tecnologias mais demandadas do mercado
 
