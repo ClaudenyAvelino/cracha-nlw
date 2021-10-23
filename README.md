@@ -1,7 +1,7 @@
 
 # Semana NLW Heat
 > _Mission: Origin
-##CSS
+##Tecnologias
 * CSS
 * HTML
 * CSS
