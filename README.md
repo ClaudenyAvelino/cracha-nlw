@@ -7,7 +7,7 @@
 > Criar um - Cartão Virtual DoWhile, portfólio com as tecnologias mais demandadas do mercado
 
 ### Tecnologias
-* CSS
+
 * HTML
 * CSS
 * Javascript
