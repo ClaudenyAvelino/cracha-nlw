@@ -12,7 +12,7 @@
 * CSS
 * Javascript
 
-https://img.shields.io/github/issues/ClaudenyAvelino/projeto-sds3
+https://claudenyavelino.github.io/cracha-nlw/
 
 
 ## Preparando o ambiente
