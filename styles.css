@@ -16,10 +16,20 @@ body {
   place-items: center;
 }
 main {
-  background: url(images/background.svg) no-repeat center/cover;
-  width: 100vw;
-  min-height: 812px;
-  height: 100vh;
+  background-image: url("../images/badge.png");
+  width: 22.375rem;
+  height: 33.75rem;
+  border-radius: 1rem;
+
+  transform-style: preserve-3d;
+  transform: translateZ(0);
+
+  background-color: rgba(126, 126, 126, 0.212);
+  backdrop-filter: saturate(180%) blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.411);
+
+  margin-top: -350px;
 }
 .conteiner {
   max-width: 250px;
