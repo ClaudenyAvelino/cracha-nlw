@@ -1,15 +1,6 @@
 * {
   margin: 0;
 }
-html,
-body {
-  --black: hsl(240, 6%, 13%);
-  --gray: hsl(240, 9%, 89%);
-
-  height: 100%;
-  font-family: 'Roboto', sans-serif;
-  -webkit-font-smoothing: antialiased;
-}
 
 body {
   display: grid;
@@ -68,4 +59,61 @@ ul {
   display: flex;
   gap: 0.5rem;
   justify-content: center;
+}
+
+/* Smartphone Portrait >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+/* Smartphone Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+@media (min-width: 576px) {
+  body {
+    background-color: #0ff;
+  }
+  /* Layout */
+  .Container {
+    max-width: 540px;
+  }
+}
+
+/* Tablet Portrait >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+@media (min-width: 768px) {
+  body {
+    background-color: #ff0;
+  }
+  /* Layout */
+  .Container {
+    max-width: 720px;
+  }
+}
+
+/* Tablet Landscape >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+@media (min-width: 992px) {
+  body {
+    background-color: #ff6600;
+  }
+  /* Layout */
+  .Container {
+    max-width: 960px;
+  }
+}
+
+/* PC >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+@media (min-width: 1200px) {
+  body {
+    background-color: #f00;
+  }
+  /* Layout */
+  .Container {
+    max-width: 1140px;
+  }
+}
+
+html,
+main,
+body {
+  --black: hsl(240, 6%, 13%);
+  --gray: hsl(240, 9%, 89%);
+
+  height: 100%;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
